@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/564x/46/4e/7e/464e7e60ed516cefc5b37bd9fa49bc9a.jpg)
+![MasterHead](https://i.pinimg.com/564x/46/4e/7e/464e7e60ed516cefc5b37bd9fa49bc9a.jpg)
 <h1 align="center">Hi 👋, I'm Musatpha Moutaki</h1>
 <h3 align="center">i'm full-stack developer(InchaAllah) from morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif">
